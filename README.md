@@ -1,5 +1,7 @@
 # Class Practice 2024
 
+![](https://www.vectorlogo.zone/logos/java/java-ar21.svg) ![](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)
+
 # О работе
 Разработка информационной системы на основе клиент-серверной архитектуры 
 для агентства трудоустройства - **"Name Company"**
