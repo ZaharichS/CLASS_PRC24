@@ -1,6 +1,6 @@
 # Class Practice 2024
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status]()
 
 # О работе
 Разработка информационной системы на основе клиент-серверной архитектуры 
